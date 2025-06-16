@@ -52,7 +52,7 @@ Meu principal objetivo agora é construir uma base sólida nos fundamentos da co
 <br>
 
 <details>
-  <summary><strong>🚀 Primeiro projeto de AEDs I - Prática</strong></summary>
+  <summary><strong>🚀 Projeto de AEDs I: Controle e Estatísticas de Base de Dados</strong></summary>
   <br>
   <p align="justify">
     Este aplicativo, desenvolvido em C++, é um sistema para o gerenciamento de uma base de dados de imóveis. O projeto foi criado para aplicar conceitos de programação como a manipulação de registros (structs) em vetores, entrada e saída de arquivos, e a geração de relatórios estatísticos simples.
@@ -74,7 +74,7 @@ Meu principal objetivo agora é construir uma base sólida nos fundamentos da co
   <p>
     <strong>Tecnologias:</strong> C++
     <br>
-    <strong>Link para o Repositório:</strong> <a href="[github.com/gabriel-bcc/AEDs-I-Pratica/blob/main/trabalhos/](https://github.com/gabriel-bcc/AEDs-I-Pratica/blob/6d543e323054b49dff733767de2e4e2a924f7608/trabalhos/Controle%20e%20Estat%C3%ADsticas%20de%20Base%20de%20Dados.zip)">Clique aqui</a>
+    <strong>Link para o Repositório:</strong> <a href="https://github.com/gabriel-bcc/AEDs-I-Pratica">Clique aqui</a>
   </p>
 </details>
 
@@ -83,10 +83,10 @@ Meu principal objetivo agora é construir uma base sólida nos fundamentos da co
 
 ### 🌱 O Que Estou Focando Agora
 
--   🧠 Fortalecer minha base em **Lógica de Programação e Algoritmos**.
--   💻 Aprofundar meus conhecimentos em **C/C++**.
--   🌐 Evoluir meus estudos em **HTML, CSS e JavaScript** para criar páginas web simples.
--   🐙 Dominar o básico de **Git e GitHub** para controlar as versões dos meus projetos.
+- 🧠 Fortalecer minha base em **Lógica de Programação e Algoritmos**.
+- 💻 Aprofundar meus conhecimentos em **C/C++**.
+- 🌐 Evoluir meus estudos em **HTML, CSS e JavaScript** para criar páginas web simples.
+- 🐙 Dominar o básico de **Git e GitHub** para controlar as versões dos meus projetos.
 
 ---
 
