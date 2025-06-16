@@ -17,7 +17,7 @@
 ### 👨‍💻 Sobre Mim
 
 <p align="justify">
-Olá! Sou o Gabriel e atualmente estou no <strong>primeiro período</strong> do curso de <strong>Ciência da Computação</strong> na Universidade Federal de Alfenas (Unifal-MG). Estou no comecinho da minha jornada como desenvolvedor e completamente fascinado pelo que a tecnologia pode fazer.
+Olá! Me chamo Gabriel Henrique e atualmente estou no <strong>terceiro período</strong> do curso de <strong>Ciência da Computação</strong> na Universidade Federal de Alfenas (Unifal-MG). Estou no comecinho da minha jornada como desenvolvedor e completamente fascinado pelo que a tecnologia pode fazer.
 
 Meu principal objetivo agora é construir uma base sólida nos fundamentos da computação, como <strong>lógica de programação e algoritmos</strong>. Estou muito animado para aprender, desenvolver meus primeiros projetos e explorar as diversas áreas que a computação oferece!
 </p>
@@ -37,11 +37,10 @@ Meu principal objetivo agora é construir uma base sólida nos fundamentos da co
 ### 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <i>(Elas vão ficar mais legais conforme eu for subindo meus projetos da faculdade!)</i>
   <br><br>
-  <a href="https://github.com/[SEU-USUARIO-GITHUB]">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[SEU-USUARIO-GITHUB]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[SEU-USUARIO-GITHUB]&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/gabriel-bcc">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-bcc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-bcc&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
 
