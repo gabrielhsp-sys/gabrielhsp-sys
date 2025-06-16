@@ -4,10 +4,10 @@
 ---
 
 <p align="center">
-  <a href="mailto:[SEU-EMAIL@DOMINIO.COM]">
+  <a href="mailto:pereira.gabriel@sou.unifal-mg.edu.br">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://linkedin.com/in/[SEU-USUARIO-LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/gabrielhsp-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -39,7 +39,7 @@ Meu principal objetivo agora é construir uma base sólida nos fundamentos da co
 <p align="center">
   <br><br>
   <a href="https://github.com/gabriel-bcc">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-bcc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriel-bcc&show_icons=true&theme=tokyonight&rank_icon=github"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-bcc&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
@@ -52,14 +52,29 @@ Meu principal objetivo agora é construir uma base sólida nos fundamentos da co
 <br>
 
 <details>
-  <summary><strong>🚀 Projeto 1: [Nome do Projeto ou Trabalho da Disciplina]</strong></summary>
+  <summary><strong>🚀 Primeiro projeto de AEDs I - Prática</strong></summary>
   <br>
   <p align="justify">
-    <strong>Descrição:</strong> [Escreva aqui uma breve descrição do que o projeto faz. Por exemplo: "Implementação de um algoritmo de ordenação para a matéria de Algoritmos e Estrutura de Dados I."]
-    <br><br>
-    <strong>Tecnologias:</strong> [Ex: C, Lógica de Programação]
+    Este aplicativo, desenvolvido em C++, é um sistema para o gerenciamento de uma base de dados de imóveis. O projeto foi criado para aplicar conceitos de programação como a manipulação de registros (structs) em vetores, entrada e saída de arquivos, e a geração de relatórios estatísticos simples.
+  </p>
+  <p align="justify">
+    O programa interage com um arquivo de texto (<code>BD_Imoveis2.txt</code>), lendo os dados na inicialização e salvando todas as alterações realizadas ao ser encerrado.
+  </p>
+  
+  <strong>Principais Características:</strong>
+  <ul>
+    <li>Gerenciamento completo de imóveis via menu interativo.</li>
+    <li>Leitura e gravação automática dos dados em arquivo.</li>
+    <li>Manutenção de um vetor de dados sempre contíguo (sem "buracos" após exclusões).</li>
+    <li>Capacidade para armazenar até 200 registros de imóveis.</li>
+    <li>Geração de relatórios estatísticos sobre a base de dados.</li>
+  </ul>
+  
+  <br>
+  <p>
+    <strong>Tecnologias:</strong> C++
     <br>
-    <strong>Link para o Repositório:</strong> <a href="[URL_DO_REPOSITORIO_DO_PROJETO]">Clique aqui</a>
+    <strong>Link para o Repositório:</strong> <a href="https://github.com/gabriel-bcc/AEDs-I-Pratica">Clique aqui</a>
   </p>
 </details>
 
