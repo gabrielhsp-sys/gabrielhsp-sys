@@ -28,12 +28,12 @@ Meu principal objetivo agora é construir uma base sólida nos fundamentos da co
 
 ---
 
-### 🚀 Habilidades Iniciais e Ferramentas
+### 🚀 Habilidades & Ferramentas
 
 <p align="center">
-  <i>Estas são as primeiras tecnologias que estou tendo contato na faculdade e em meus estudos iniciais:</i>
+  <i>Atualmente, meu foco de estudo está nestas tecnologias, que estou aprendendo na faculdade e por conta própria:</i>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=c,python,git,github,linux,vscode" alt="Habilidades Iniciais"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" alt="Habilidades Atuais"/>
 </p>
 
 ---
@@ -74,9 +74,9 @@ Meu principal objetivo agora é construir uma base sólida nos fundamentos da co
 ### 🌱 O Que Estou Focando Agora
 
 -   🧠 Fortalecer minha base em **Lógica de Programação e Algoritmos**.
--   💻 Aprender os fundamentos da linguagem **C** e/ou **Python**.
+-   💻 Aprofundar meus conhecimentos em **C/C++**.
+-   🌐 Evoluir meus estudos em **HTML, CSS e JavaScript** para criar páginas web simples.
 -   🐙 Dominar o básico de **Git e GitHub** para controlar as versões dos meus projetos.
--   💡 Entender os conceitos de **Arquitetura de Computadores**.
 
 ---
 
