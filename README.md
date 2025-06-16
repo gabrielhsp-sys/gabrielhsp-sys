@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/2IudUHdI0lDi3AroXk/giphy.gif" alt="GIF de código" width="800"/>
+  <img src="https://i.imgur.com/mU1tT2s.png" alt="Banner minimalista" width="800"/>
 </p>
 
 <h1 align="center">Olá! Eu sou o Gabriel 👋</h1>
