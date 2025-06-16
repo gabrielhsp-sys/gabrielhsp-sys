@@ -17,7 +17,7 @@
 ### 👨‍💻 Sobre Mim
 
 <p align="justify">
-Olá! Me chamo Gabriel Henrique e atualmente estou no <strong>terceiro período</strong> do curso de <strong>Ciência da Computação</strong> na Universidade Federal de Alfenas (Unifal-MG). Estou no comecinho da minha jornada como desenvolvedor e completamente fascinado pelo que a tecnologia pode fazer.
+Olá! Me chamo Gabriel Henrique e atualmente estou no <strong>primeiro período</strong> do curso de <strong>Ciência da Computação</strong> na Universidade Federal de Alfenas (Unifal-MG). Estou no comecinho da minha jornada como desenvolvedor e completamente fascinado pelo que a tecnologia pode fazer.
 
 Meu principal objetivo agora é construir uma base sólida nos fundamentos da computação, como <strong>lógica de programação e algoritmos</strong>. Estou muito animado para aprender, desenvolver meus primeiros projetos e explorar as diversas áreas que a computação oferece!
 </p>
