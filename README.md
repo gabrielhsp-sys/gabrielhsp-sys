@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.imgur.com/mU1tT2s.png" alt="Banner minimalista" width="800"/>
-</p>
-
 <h1 align="center">Olá! Eu sou o Gabriel 👋</h1>
 <h3 align="center">Estudante de Ciência da Computação na Unifal-MG, apaixonado por tecnologia e descobrindo o universo da programação.</h3>
 
