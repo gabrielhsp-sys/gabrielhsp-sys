@@ -74,7 +74,7 @@ Meu principal objetivo agora é construir uma base sólida nos fundamentos da co
   <p>
     <strong>Tecnologias:</strong> C++
     <br>
-    <strong>Link para o Repositório:</strong> <a href="https://github.com/gabriel-bcc/AEDs-I-Pratica/trabalhos/Controle e Estatísticas de Base de Dados">Clique aqui</a>
+    <strong>Link para o Repositório:</strong> <a href="https://github.com/gabriel-bcc/AEDs-I-Pratica/tree/7f9d9e2a3ea65e166e02a2d3774672109fd995fa/trabalhos/Controle%20e%20Estat%C3%ADsticas%20de%20Base%20de%20Dados">Clique aqui</a>
   </p>
 </details>
 
