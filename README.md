@@ -45,7 +45,6 @@
 
 - 🌐 **[Portfólio pessoal](https://github.com/gabriel-bcc/gabriel-bcc.github.io)** — site feito do zero (HTML/CSS/JS), com design próprio e fundo em canvas. → **[gabriel-bcc.github.io](https://gabriel-bcc.github.io)**
 - 🎓 **[Academic System](https://github.com/gabriel-bcc/academic-system)** — gestão acadêmica em **Java 25** com RBAC, persistência plugável (TXT/XML/JSON), CLI + GUI JavaFX, testes (JUnit 5/Mockito/JaCoCo) e CI/CD completo.
-- 📊 **[AEDs I — Prática](https://github.com/gabriel-bcc/AEDs-I-Pratica)** — sistema de controle e estatísticas de base de dados em **C++**.
 - 📚 **[faculdade-bcc](https://github.com/gabriel-bcc/faculdade-bcc)** — toda a minha jornada na graduação, organizada por período.
 
 > 👉 Veja **todos os projetos** (incluindo homelab self-hosted e uma PWA full-stack) no meu **[portfólio](https://gabriel-bcc.github.io)**.
