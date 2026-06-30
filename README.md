@@ -52,9 +52,10 @@
 ### 📊 GitHub
 
 <p align="center">
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabriel-bcc&show_icons=true&theme=tokyonight" />
-<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gabriel-bcc&layout=compact&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gabriel-bcc&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-bcc&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Linguagens mais usadas">
 </p>
+
 
 
 ---
