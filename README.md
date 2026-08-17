@@ -114,6 +114,7 @@ Toda a graduação organizada por período — código, atividades e trabalhos d
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=gabriel-bcc&show_icons=true&theme=tokyonight&rank_icon=github)
 ![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-bcc&layout=compact&langs_count=7&theme=tokyonight)
+![Teste](https://img.shields.io/badge/TESTE-VERDE-brightgreen)
 
 ---
 
