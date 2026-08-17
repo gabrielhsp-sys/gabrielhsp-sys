@@ -22,7 +22,7 @@ Tenho um jeito cético de trabalhar: prefiro decisão baseada em evidência a hy
 
 ### 🛠️ Stack
 
-![TESTE](https://img.shields.io/badge/TESTE-VERDE-brightgreen)
+![Teste](https://raw.githubusercontent.com/gabriel-bcc/fedora-post-install/main/README.md)
 
 **Linguagens**
 
