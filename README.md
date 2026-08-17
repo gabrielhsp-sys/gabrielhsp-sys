@@ -22,7 +22,6 @@ Tenho um jeito cético de trabalhar: prefiro decisão baseada em evidência a hy
 
 ### 🛠️ Stack
 
-![Teste GitHub](https://github.com/gabriel-bcc.png)
 
 **Linguagens**
 
