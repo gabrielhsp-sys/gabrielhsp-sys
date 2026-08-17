@@ -62,6 +62,8 @@ Guia pós-instalação do Fedora 44 em português, escrito pra ser copiado e col
 
 `Fedora` · `Bash` · `systemd` · `Btrfs` · `RPM Fusion` · `Markdown`
 
+---
+
 **🎓 [Academic System](https://github.com/gabriel-bcc/academic-system)** — Java
 
 Sistema de gestão acadêmica com controle de acesso por papéis (RBAC), rodando em CLI **e** interface JavaFX sobre exatamente a mesma lógica de negócio. O escopo funcional é enxuto de propósito: o foco está na engenharia.
