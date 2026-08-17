@@ -51,6 +51,17 @@ Tenho um jeito cético de trabalhar: prefiro decisão baseada em evidência a hy
 
 ### 🎯 Projetos
 
+🐧 **[Fedora Post-Install](https://github.com/gabriel-bcc/fedora-post-install)** — Linux
+
+Guia pós-instalação do Fedora 44 em português, escrito pra ser copiado e colado sem quebrar o sistema. Não é lista de comando solto: cada seção tem como verificar se funcionou, e a última ensina a desfazer tudo.
+
+- Correções do que mudou no **dnf5**: `groupupdate` não existe mais, `max_parallel_downloads` derruba metade dos guias copiados
+- Secure Boot resolvido **assinando** o módulo NVIDIA com MOK, em vez de mandar desligar o Secure Boot
+- Uma seção dedicada ao tuning que virou lenda e hoje é inútil no Fedora — `vm.max_map_count`, esync/fsync, libs Vulkan 32 bits na mão
+- Snapshots com snapper realmente configurado, e não só o GUI instalado
+
+`Fedora` · `Bash` · `systemd` · `Btrfs` · `RPM Fusion` · `Markdown`
+
 **🎓 [Academic System](https://github.com/gabriel-bcc/academic-system)** — Java
 
 Sistema de gestão acadêmica com controle de acesso por papéis (RBAC), rodando em CLI **e** interface JavaFX sobre exatamente a mesma lógica de negócio. O escopo funcional é enxuto de propósito: o foco está na engenharia.
