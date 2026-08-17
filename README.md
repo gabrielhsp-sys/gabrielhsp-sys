@@ -22,6 +22,8 @@ Tenho um jeito cético de trabalhar: prefiro decisão baseada em evidência a hy
 
 ### 🛠️ Stack
 
+![TESTE](https://img.shields.io/badge/TESTE-VERDE-brightgreen)
+
 **Linguagens**
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
