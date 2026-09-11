@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhspereira36@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielhsp-dev/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-0A0E1A?style=for-the-badge&logo=github&logoColor=white)](https://gabriel-bcc.github.io)
+[![Portfólio](https://img.shields.io/badge/Portfólio-0A0E1A?style=for-the-badge&logo=github&logoColor=white)](https://gabrielhsp-sys.github.io)
 
 ---
 
@@ -52,7 +52,7 @@ Tenho um jeito cético de trabalhar: prefiro decisão baseada em evidência a hy
 
 ### 🎯 Projetos
 
-🐧 **[Fedora Post-Install](https://github.com/gabriel-bcc/fedora-post-install)** — Linux
+🐧 **[Fedora Post-Install](https://github.com/gabrielhsp-sys/fedora-post-install)** — Linux
 
 Guia pós-instalação do Fedora 44 em português, escrito pra ser copiado e colado sem quebrar o sistema. Não é lista de comando solto: cada seção tem como verificar se funcionou, e a última ensina a desfazer tudo.
 
@@ -65,7 +65,7 @@ Guia pós-instalação do Fedora 44 em português, escrito pra ser copiado e col
 
 ---
 
-**🎓 [Academic System](https://github.com/gabriel-bcc/academic-system)** — Java
+**🎓 [Academic System](https://github.com/gabrielhsp-sys/academic-system)** — Java
 
 Sistema de gestão acadêmica com controle de acesso por papéis (RBAC), rodando em CLI **e** interface JavaFX sobre exatamente a mesma lógica de negócio. O escopo funcional é enxuto de propósito: o foco está na engenharia.
 
@@ -99,7 +99,7 @@ PWA instalável para registro e progressão de treinos, com backend em Supabase 
 
 ---
 
-**📚 [faculdade-bcc](https://github.com/gabriel-bcc/faculdade-bcc)**
+**📚 [faculdade-bcc](https://github.com/gabrielhsp-sys/faculdade-bcc)**
 
 Toda a graduação organizada por período — código, atividades e trabalhos de cada disciplina.
 
@@ -113,8 +113,8 @@ Toda a graduação organizada por período — código, atividades e trabalhos d
 
 ### 📊 Estatísticas
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gabriel-bcc&show_icons=true&theme=tokyonight&rank_icon=github)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-bcc&layout=compact&langs_count=7&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=gabrielhsp-sys&show_icons=true&theme=tokyonight&rank_icon=github)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhsp-sys&layout=compact&langs_count=7&theme=tokyonight)
 
 ---
 
