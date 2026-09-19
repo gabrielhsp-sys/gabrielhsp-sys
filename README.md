@@ -1,4 +1,6 @@
-<h1 align="center">gabriel.sys</h1>
+<p align="center">
+  <img src="https://d2ol7oe51mr4n9.cloudfront.net/user_3JBvUKlub4pvgdDjJwJ32X92zlR/e724c439-50fe-4ac8-ac4d-5162b7ff6744.png" alt="gabriel.sys banner" width="100%">
+</p>
 
 <p align="center">
   <strong>Gabriel Henrique</strong><br>
@@ -26,7 +28,6 @@ Este GitHub é onde eu guardo o que estou construindo e aprendendo no caminho.
 - 🎓 **Ciência da Computação** — UNIFAL-MG
 - 🐧 Fedora como sistema principal
 - 🧪 gosto de aprender mexendo, quebrando e refazendo
-- 🖥️ mantenho um homelab para testar self-hosting, rede e automação
 - 🔧 interesse atual em engenharia de software, Linux, infraestrutura e backend
 
 ## >_ Projetos
@@ -62,14 +63,8 @@ Este GitHub é onde eu guardo o que estou construindo e aprendendo no caminho.
 
 ```text
 C · C++ · Java · Python · JavaScript/TypeScript · SQL
-Linux · Git · Maven · Docker · GitHub Actions · Tailscale
+Linux · Git · Maven · Docker · GitHub Actions
 ```
-
-## >_ Homelab
-
-Tenho um servidor 24/7 em hardware reaproveitado onde testo coisas que não quero deixar só na teoria: **Tailscale, Syncthing, Pi-hole, SMB, DNS e self-hosting**.
-
-Sem abrir porta pública e, sempre que possível, entendendo primeiro o que estou colocando para rodar.
 
 ---
 
