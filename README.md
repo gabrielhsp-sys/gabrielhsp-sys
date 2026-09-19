@@ -91,4 +91,4 @@ Se usa Fedora e caiu aqui por acaso, talvez o [fedora-post-install](https://gith
 
 ---
 
-<sub>Areado, MG · Brasil</sub>
+<sub>Esse README muda junto com o que eu estou fazendo.</sub>
