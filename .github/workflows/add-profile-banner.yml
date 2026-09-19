@@ -1,0 +1,32 @@
+name: Add profile banner
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - ".github/workflows/add-profile-banner.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  add-banner:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Download banner
+        run: |
+          set -euo pipefail
+          mkdir -p assets
+          curl -fL "https://d2ol7oe51mr4n9.cloudfront.net/user_3JBvUKlub4pvgdDjJwJ32X92zlR/e724c439-50fe-4ac8-ac4d-5162b7ff6744.png"             -o assets/gabriel-sys-banner.png
+          file assets/gabriel-sys-banner.png
+
+      - name: Commit banner
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/gabriel-sys-banner.png
+          git commit -m "docs: adiciona banner do perfil"
+          git push
