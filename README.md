@@ -1,121 +1,94 @@
-# Olá! Eu sou o Gabriel 👋
+# gabriel.sys
 
-### Estudante de Ciência da Computação na UNIFAL-MG — do baixo nível à web, com obsessão por fazer bem feito.
+**Gabriel Henrique** — Ciência da Computação @ UNIFAL-MG.
 
----
+Eu gosto de mexer na parte que normalmente fica escondida.
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielhspereira36@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielhsp-dev/)
-[![Portfólio](https://img.shields.io/badge/Portfólio-0A0E1A?style=for-the-badge&logo=github&logoColor=white)](https://gabrielhsp-sys.github.io)
+Foi assim que comecei fuçando registro do Windows só para entender o que cada coisa fazia e acabei indo parar em C/C++, Java, Linux, redes, automação e um homelab que vive ligado. Quando alguma coisa me interessa, dificilmente fico só no “funcionou”: quero entender por que funcionou, onde pode quebrar e como deixar melhor.
 
----
+Hoje este GitHub é basicamente o registro disso — faculdade, projetos, ferramentas que uso e coisas que construí porque senti falta delas.
 
-### 👨‍💻 Sobre mim
-
-Me chamo **Gabriel Henrique Silva Pereira**, estou no **4º período** de Ciência da Computação na Universidade Federal de Alfenas (UNIFAL-MG).
-
-Comecei mexendo em registro do Windows por curiosidade de entender o sistema por dentro. Essa mesma vontade de abrir a caixa e ver os fios me levou do **baixo nível em C/C++** à **orientação a objetos em Java** com testes e padrões de projeto, passando por **web full-stack** e chegando na administração do meu próprio **homelab em Linux**.
-
-Tenho um jeito cético de trabalhar: prefiro decisão baseada em evidência a hype, e gosto de entender o *porquê* antes de aceitar. Quando construo algo, o foco não está só em funcionar — está na engenharia em volta: arquitetura em camadas, testes automatizados, CI/CD e documentação.
+[portfólio](https://gabrielhsp-sys.github.io) · [linkedin](https://www.linkedin.com/in/gabrielhsp-dev/) · [email](mailto:gabrielhspereira36@gmail.com)
 
 ---
 
-### 🛠️ Stack
+## o que tem aqui
 
+### [academic-system](https://github.com/gabrielhsp-sys/academic-system)
 
-**Linguagens**
+Trabalho semestral de Programação Orientada a Objetos, feito a partir do repositório da disciplina.
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Prolog](https://img.shields.io/badge/Prolog-darkred?style=flat-square)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+O sistema começou simples e virou um bom laboratório de engenharia: autenticação e autorização por papéis, CLI e JavaFX usando a mesma lógica de negócio, persistência em TXT/XML/JSON, testes, Docker e CI/CD.
 
-**Qualidade & Arquitetura**
-
-![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
-![JaCoCo](https://img.shields.io/badge/JaCoCo-C21325?style=flat-square)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
-![UML](https://img.shields.io/badge/UML-5C2D91?style=flat-square)
-
-**Infra & Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white)
+`Java 25` · `JavaFX` · `Maven` · `JUnit 5` · `Mockito` · `JaCoCo` · `Docker` · `GitHub Actions`
 
 ---
 
-### 🎯 Projetos
+### [fedora-post-install](https://github.com/gabrielhsp-sys/fedora-post-install)
 
-🐧 **[Fedora Post-Install](https://github.com/gabrielhsp-sys/fedora-post-install)** — Linux
+Meu guia pós-instalação do Fedora.
 
-Guia pós-instalação do Fedora 44 em português, escrito pra ser copiado e colado sem quebrar o sistema. Não é lista de comando solto: cada seção tem como verificar se funcionou, e a última ensina a desfazer tudo.
+Ele existe porque eu cansei de encontrar guia velho mandando copiar comando que não funciona mais. A ideia é ser direto: instalar, conferir se funcionou e saber como desfazer depois.
 
-- Correções do que mudou no **dnf5**: `groupupdate` não existe mais, `max_parallel_downloads` derruba metade dos guias copiados
-- Secure Boot resolvido **assinando** o módulo NVIDIA com MOK, em vez de mandar desligar o Secure Boot
-- Uma seção dedicada ao tuning que virou lenda e hoje é inútil no Fedora — `vm.max_map_count`, esync/fsync, libs Vulkan 32 bits na mão
-- Snapshots com snapper realmente configurado, e não só o GUI instalado
+Tem dnf5, RPM Fusion, codecs, Secure Boot com NVIDIA, Btrfs/snapper, gaming e alguns ajustes que eu realmente uso.
 
-`Fedora` · `Bash` · `systemd` · `Btrfs` · `RPM Fusion` · `Markdown`
+`Fedora` · `Linux` · `dnf5` · `systemd` · `Btrfs` · `RPM Fusion`
 
 ---
 
-**🎓 [Academic System](https://github.com/gabrielhsp-sys/academic-system)** — Java
+### [gabrielhsp-sys.github.io](https://github.com/gabrielhsp-sys/gabrielhsp-sys.github.io)
 
-Sistema de gestão acadêmica com controle de acesso por papéis (RBAC), rodando em CLI **e** interface JavaFX sobre exatamente a mesma lógica de negócio. O escopo funcional é enxuto de propósito: o foco está na engenharia.
+Meu portfólio não é uma landing page com “sobre mim / habilidades / contato”.
 
-- Arquitetura em camadas: `View → Controller → Service → Repository → Model`
-- **Repository + Strategy** para persistência intercambiável em TXT/XML/JSON sem o domínio conhecer o formato
-- Matriz de permissões como fonte única de verdade + trilha de auditoria
-- **13 classes de teste** (JUnit 5 + Mockito) com cobertura via JaCoCo
-- **4 workflows de CI/CD**: build/testes, validação de PR, imagem Docker no GHCR e release por tag
+Eu uso como um arquivo público: projetos, estudos, referências e registros conectados. O site é gerado estaticamente e o conteúdo vive em Markdown/MDX.
 
-`Java` · `JavaFX` · `Maven` · `JUnit 5` · `Mockito` · `Docker` · `GitHub Actions`
+`Next.js` · `React` · `TypeScript` · `MDX` · `GitHub Pages`
 
 ---
 
-**🖥️ Homelab Self-Hosted** — Linux
+### [faculdade-bcc](https://github.com/gabrielhsp-sys/faculdade-bcc)
 
-Servidor pessoal em Debian hospedando meus próprios serviços: gerenciador de senhas, backup de fotos, sincronização de arquivos, mídia, Git próprio e monitoramento.
+Minha graduação organizada em um único lugar.
 
-- Serviços isolados em containers Docker
-- Acesso por rede privada com **Tailscale** — contorna o CGNAT do provedor sem abrir uma porta sequer
-- Zero exposição à internet pública
+Cada período tem suas disciplinas, atividades, códigos, trabalhos e documentos. Em vez de criar dezenas de repositórios soltos, prefiro manter a evolução do curso visível como uma linha do tempo.
 
-`Debian` · `Docker` · `Tailscale` · `Redes`
+`C/C++` · `Java` · `Python` · `SQL` · `Git`
 
 ---
 
-**💪 Reset — App de Treino** — Web
+## fora dos repositórios
 
-PWA instalável para registro e progressão de treinos, com backend em Supabase e deploy na Netlify.
+Também mantenho um homelab 24/7 em hardware reaproveitado.
 
-`JavaScript` · `Supabase` · `PWA` · `Netlify`
+Hoje ele é onde testo coisas de rede e self-hosting sem depender de abrir porta pública: UmbrelOS, Tailscale, Syncthing, Pi-hole, SMB e outros serviços que entram e saem conforme eu vou experimentando.
 
----
-
-**📚 [faculdade-bcc](https://github.com/gabrielhsp-sys/faculdade-bcc)**
-
-Toda a graduação organizada por período — código, atividades e trabalhos de cada disciplina.
+Meu computador principal roda Fedora, então boa parte do que aparece aqui nasce de problema real que eu tive e quis resolver direito.
 
 ---
 
-### 🌱 Cursando agora (4º período)
+## ferramentas que mais aparecem no meu dia a dia
 
-`Banco de Dados` · `Computação Gráfica` · `Sistemas Operacionais` · `Teoria de Linguagens e Compiladores` · `Programação Web` · `Gestão do Ciclo de Vida da Aplicação` · `Estatística Básica`
+```text
+linguagens     C · C++ · Java · Python · JavaScript/TypeScript · SQL
+sistema        Fedora · Linux
+dev            Git · GitHub · Maven · Docker · GitHub Actions
+infra          Tailscale · Syncthing · Pi-hole · SMB
+```
+
+Não trato essa lista como coleção de logo. Algumas coisas eu uso bastante, outras estou aprendendo dentro da faculdade ou de um projeto específico.
 
 ---
 
-### 📊 Estatísticas
+## onde olhar primeiro
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gabrielhsp-sys&show_icons=true&theme=tokyonight&rank_icon=github)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielhsp-sys&layout=compact&langs_count=7&theme=tokyonight)
+Se você quer ver **o que estou construindo**, começa pelo [portfólio](https://gabrielhsp-sys.github.io).
+
+Se veio atrás de **código e trabalhos da graduação**, vai para o [faculdade-bcc](https://github.com/gabrielhsp-sys/faculdade-bcc).
+
+Se quer ver um projeto Java mais completo, abre o [academic-system](https://github.com/gabrielhsp-sys/academic-system).
+
+Se usa Fedora e caiu aqui por acaso, talvez o [fedora-post-install](https://github.com/gabrielhsp-sys/fedora-post-install) te poupe algum tempo.
 
 ---
 
-Aberto a oportunidades de estágio e a trocas de ideia. É só chamar.
+<sub>Areado, MG · Brasil</sub>
