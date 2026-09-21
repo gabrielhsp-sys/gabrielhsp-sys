@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://d2ol7oe51mr4n9.cloudfront.net/user_3JBvUKlub4pvgdDjJwJ32X92zlR/e724c439-50fe-4ac8-ac4d-5162b7ff6744.png" alt="gabriel.sys banner" width="100%">
+  <img src="assets/gabriel-sys-banner.png" alt="gabriel.sys banner" width="100%">
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@ Este GitHub é onde eu guardo o que estou construindo e aprendendo no caminho.
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gabrielhsp-sys/faculdade-bcc">Faculdade BCC</a></h3>
       <p>Minha graduação organizada por período, com códigos, atividades, trabalhos e materiais das disciplinas.</p>
-      <code>C/C++</code> <code>Java</code> <code>Python</code> <code>SQL</code>
+      <code>Java</code> <code>C/C++</code> <code>Prolog</code> <code>Haskell</code>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gabrielhsp-sys/gabrielhsp-sys.github.io">Portfólio</a></h3>
