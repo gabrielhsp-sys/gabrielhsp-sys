@@ -26,7 +26,7 @@ Este GitHub é onde eu guardo o que estou construindo e aprendendo no caminho.
 ## >_ Sobre mim
 
 - 🎓 **Ciência da Computação** — UNIFAL-MG
-- 🐧 Fedora como sistema principal
+- 🐧 Linux no dia a dia: Fedora até outubro de 2026, hoje Ubuntu no WSL2
 - 🧪 gosto de aprender mexendo, quebrando e refazendo
 - 🔧 interesse atual em engenharia de software, Linux, infraestrutura e backend
 
@@ -41,7 +41,7 @@ Este GitHub é onde eu guardo o que estou construindo e aprendendo no caminho.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gabrielhsp-sys/fedora-post-install">Fedora Post-Install</a></h3>
-      <p>Guia pós-instalação que eu mantenho com o que realmente uso e testo no Fedora.</p>
+      <p>Guia pós-instalação do Fedora 44 que escrevi e testei enquanto ele era meu sistema principal.</p>
       <code>Fedora</code> <code>Linux</code> <code>dnf5</code> <code>systemd</code>
     </td>
   </tr>
