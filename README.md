@@ -41,7 +41,7 @@ Este GitHub é onde eu guardo o que estou construindo e aprendendo no caminho.
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/gabrielhsp-sys/fedora-post-install">Fedora Post-Install</a></h3>
-      <p>Guia pós-instalação do Fedora 44 que escrevi e testei enquanto ele era meu sistema principal.</p>
+      <p>Guia pós-instalação do Fedora, escrito e testado por mim. Serve de tutorial para quem acabou de instalar.</p>
       <code>Fedora</code> <code>Linux</code> <code>dnf5</code> <code>systemd</code>
     </td>
   </tr>
